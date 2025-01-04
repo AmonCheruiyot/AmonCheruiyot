@@ -39,7 +39,7 @@
 
 - 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1oH3Lhd2WXqCo-dwEwxXJpGTyoTkvtienQoL2wqSV6LE/edit?usp=sharing)
   
-- ⚡ Fun fact: **Smiling is my weakness!**
+- ⚡ Fun fact: **I love solving problems!**
 
 ---
 
