@@ -10,11 +10,7 @@
   <a href="https://github.com/amoncheruiyot"><img src="https://img.shields.io/github/stars/amoncheruiyot?label=Stars&style=flat-square&color=yellow" alt="Stars" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amoncheruiyot&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" />
-  </a>
-</p>
+
 
 ---
 
