@@ -100,19 +100,7 @@ I'm a **Full-Stack Software Developer** focused on building clean, practical, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmonCheruiyot&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
----
 
-## ☕ Support Me
-
-If you like my work, consider buying me a coffee!
-
-<p>
-  <a href="https://www.buymeacoffee.com/AmonCheruiyot">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
